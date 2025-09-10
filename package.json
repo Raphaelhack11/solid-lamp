@@ -1,0 +1,10 @@
+{
+  "name": "fintech-app",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@libsql/client": "latest",
+    "bcrypt": "latest",
+    "jsonwebtoken": "latest"
+  }
+}
